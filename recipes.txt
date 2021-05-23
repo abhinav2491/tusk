@@ -3,7 +3,8 @@ recipes
 kheer 
 pasta
 momos fried
-
+beans
+pizza
 
 
 Thank You!!
